@@ -1,0 +1,259 @@
+{
+  "basics": {
+    "name": "Alexis Buelvas Madera",
+    "label": "FrontEnd Developer with more than 4 years of experience in page and web application development",
+    "image": "/me.webp",
+    "email": "alexjesus-4856@hotmail.com",
+    "phone": "+57 3117989722",
+    "url": "https://midu.dev",
+    "summary": "+6 years of experience as a Web Developer. I am currently a FrontEnd developer. I live in Cartagena, Colombia. I have worked in different environments: from accelerating the development of start-ups to giving classes and tutoring for an Alura Latam ONE LAD course.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Cartagena de Indias",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Alexis Buelvas",
+        "url": "https://www.linkedin.com/in/alexis-buelvas/"
+      },
+      {
+        "network": "X",
+        "username": "TzzJokerzzT",
+        "url": "https://twitter.com/Alex_Buelvas92/"
+      },
+      {
+        "network": "GitHub",
+        "username": "tzzjokerzzt",
+        "url": "https://github.com/tzzjokerzzt/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PlayBrain",
+      "position": "Front End Developer",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "summary": "Development of features for several web pages and applications of the company among the most notable achievements I worked in the development team for the website of great video games such as Street Fighter 6 and Monster Hunter Wild from the company Capcom, as well for Silent Hill 2 Remake from the company Konami. They have collaborated with the company ArcSystem Work to work on the development of features for the website of their video game Guilty Gear - Strive.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Lean Tech",
+      "position": "Front End Developer",
+      "url": "https://www.leangroup.com/solutions-and-services/technology",
+      "startDate": "2020-02-04",
+      "endDate": "2022-02-04",
+      "summary": "FrontEnd developer in charge of feature development for the See Tickets campaign, with the position of mid senior frontend developer the most notable achievments I worked in a AI project for one of the biggest technology company.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Freelance Frontend Developer",
+      "position": "Front End Developer",
+      "startDate": "2019-02-01",
+      "endDate": "2023-05-01",
+      "summary": "Development of web projects and web applications for foreign clients found through online platforms.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Mother Bernarda Clinic",
+      "position": "Front End Developer",
+      "url": "",
+      "startDate": "2018-01-05",
+      "endDate": "2019-09-01",
+      "summary": "I led the development of the clinic's website and the development of the internal platform that the clinic uses to review patients and generate medical records.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institución Universitaria Tecnologico Comfenalco",
+      "url": "https://tecnologicocomfenalco.edu.co/",
+      "area": "Ingeniero Industrial",
+      "studyType": "Bachelor",
+      "startDate": "2016-02-02",
+      "endDate": "2019-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prisma Store",
+      "isActive": true,
+      "description": "A store where you will find a video game console catalog",
+      "highlights": ["Video Game Store"],
+      "url": "https://prisma-store-one.vercel.app"
+    },
+    {
+      "name": "Brooklyn Fast Food Restaurant",
+      "isActive": true,
+      "description": "Landing page of one of the best fast food restaurants in the city of Cartagena",
+      "highlights": ["Landing Page", "+1k visit"],
+      "url": "https://brooklyn-fast-food.netlify.app"
+    },
+    {
+      "name": "Pig Game",
+      "isActive": true,
+      "description": "A small dice game",
+      "highlights": ["Web Game"],
+      "url": "https://pig-game-appl.netlify.app"
+    },
+    {
+      "name": "Chuck Norris Phrases",
+      "isActive": true,
+      "description": "Website where you can see the best famous phrases that the internet community has created about this legendary action movie actor",
+      "highlights": ["Phrases of Internet", "Personal development"],
+      "url": "https://codi.link",
+      "github": "https://chucknorris-app.netlify.app"
+    },
+    {
+      "name": "Bankist Landing Page",
+      "isActive": true,
+      "description": "Landing page model for banking entities",
+      "highlights": ["Landing Page"],
+      "url": "https://probstecnicas.com",
+      "github": "https://bankist-appl.netlify.app"
+    },
+    {
+      "name": "ToDo App",
+      "description": "An all app that I created to record all the activities and studies that I will do during the day, week and month",
+      "highlights": ["Activity planning", "Personal project"],
+      "url": "https://todo-app-rt.vercel.app"
+    }
+  ]
+}
