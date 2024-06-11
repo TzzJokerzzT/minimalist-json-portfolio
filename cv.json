@@ -217,43 +217,47 @@
       "isActive": true,
       "description": "A store where you will find a video game console catalog",
       "highlights": ["Video Game Store"],
-      "url": "https://prisma-store-one.vercel.app"
+      "url": "https://prisma-store-one.vercel.app",
+      "github": "https://github.com/TzzJokerzzT/prisma-store"
     },
     {
       "name": "Brooklyn Fast Food Restaurant",
       "isActive": true,
       "description": "Landing page of one of the best fast food restaurants in the city of Cartagena",
       "highlights": ["Landing Page", "+1k visit"],
-      "url": "https://brooklyn-fast-food.netlify.app"
+      "url": "https://brooklyn-fast-food.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/brklyn_restaurant"
     },
     {
       "name": "Pig Game",
       "isActive": true,
       "description": "A small dice game",
       "highlights": ["Web Game"],
-      "url": "https://pig-game-appl.netlify.app"
+      "url": "https://pig-game-appl.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/pig-game"
     },
     {
       "name": "Chuck Norris Phrases",
       "isActive": true,
       "description": "Website where you can see the best famous phrases that the internet community has created about this legendary action movie actor",
       "highlights": ["Phrases of Internet", "Personal development"],
-      "url": "https://codi.link",
-      "github": "https://chucknorris-app.netlify.app"
+      "url": "https://chucknorris-app.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/chuck-norris"
     },
     {
       "name": "Bankist Landing Page",
       "isActive": true,
       "description": "Landing page model for banking entities",
       "highlights": ["Landing Page"],
-      "url": "https://probstecnicas.com",
-      "github": "https://bankist-appl.netlify.app"
+      "url": "https://bankist-appl.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/bankist-application"
     },
     {
       "name": "ToDo App",
       "description": "An all app that I created to record all the activities and studies that I will do during the day, week and month",
       "highlights": ["Activity planning", "Personal project"],
-      "url": "https://todo-app-rt.vercel.app"
+      "url": "https://todo-app-rt.vercel.app",
+      "github": "https://github.com/TzzJokerzzT/todoapp"
     }
   ]
 }
