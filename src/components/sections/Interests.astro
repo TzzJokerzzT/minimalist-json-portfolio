@@ -1,0 +1,30 @@
+---
+import { interests } from "@cv";
+
+import Section from "../Section.astro";
+---
+
+<Section title="Interest">
+  <ul>
+    {
+      interests.map(({ name }) => {
+        return (
+          <li>
+            <article>
+              <div>
+                <p>{name}</p>
+              </div>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    gap: 1rem
+  }
+</style>
