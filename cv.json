@@ -59,7 +59,7 @@
       "highlights": ["Started the company"]
     },
     {
-      "name": "Mother Bernarda Clinic",
+      "name": "Madre Bernarda Hospital",
       "position": "Front End Developer",
       "url": "",
       "startDate": "2018-01-05",
@@ -70,12 +70,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "organization": "ONE LAD Front End - Alura Latam",
+      "position": "One Helper (Javascript and React) Tutor",
+      "url": "https://www.aluracursos.com/",
+      "startDate": "2024-01-15",
+      "endDate": null,
+      "summary": "Provide help to students of the One Lad Front End course on Javascript and React related topics. Solve doubts, provide learning material and carry out tutorials or personalized classes.",
       "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
@@ -83,7 +83,7 @@
     {
       "institution": "Institución Universitaria Tecnologico Comfenalco",
       "url": "https://tecnologicocomfenalco.edu.co/",
-      "area": "Ingeniero Industrial",
+      "area": "Industrial Engenier",
       "studyType": "Bachelor",
       "startDate": "2016-02-02",
       "endDate": "2019-01-01",
@@ -201,7 +201,23 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Video Games",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Basketball",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Anime",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Reading books",
       "keywords": ["Ferrets", "Unicorns"]
     }
   ],
