@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Alexis Buelvas Madera",
-    "label": "FrontEnd Developer with more than 4 years of experience in page and web application development",
+    "label": "FrontEnd Developer with more than 6 years of experience in page and web application development",
     "image": "/me.webp",
     "email": "alexjesus-4856@hotmail.com",
     "phone": "+57 3117989722",
@@ -64,7 +64,7 @@
       "url": "",
       "startDate": "2018-01-05",
       "endDate": "2019-09-01",
-      "summary": "I led the development of the clinic's website and the development of the internal platform that the clinic uses to review patients and generate medical records.",
+      "summary": "I led the development of the hospital's website and the development of the internal platform that hospital uses to review patients and generate medical records.",
       "highlights": ["Started the company"]
     }
   ],
